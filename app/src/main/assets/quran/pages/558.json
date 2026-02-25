@@ -1,0 +1,52 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 114,
+  "ayatStart": 1,
+  "ayatEnd": 6,
+  "pageNo": 558,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِۙ\u0026rlm;",
+      "translationNo": "Her kommer - norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "152645114001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;مَلِكِ النَّاسِۙ\u0026rlm;",
+      "translationNo": "Her kommer - norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "105506114002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;اِلٰهِ النَّاسِۙ\u0026rlm;",
+      "translationNo": "Her kommer - norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "135738114003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;مِنۡ شَرِّ الۡوَسۡوَاسِ \u0026ensp;ۙ الۡخَـنَّاسِ ۙ\u0026rlm;",
+      "translationNo": "Her kommer - norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "105820114004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِۙ\u0026rlm;",
+      "translationNo": "Her kommer - norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "105743114005.mp3"
+    },
+    {
+      "number": 6,
+      "text": "\u0026nbsp;مِنَ الۡجِنَّةِ وَالنَّاسِ\u0026rlm; ",
+      "translationNo": "Her kommer - norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "105901114006.mp3"
+    }
+  ]
+}

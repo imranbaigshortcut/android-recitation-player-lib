@@ -1,0 +1,262 @@
+{
+  "maps": {},
+  "suraStart": false,
+  "suraNo": 26,
+  "ayatStart": 69,
+  "ayatEnd": 104,
+  "pageNo": 320,
+  "ayatList": [
+    {
+      "number": 69,
+      "text": "وَاتۡلُ عَلَيۡهِمۡ نَبَاَ اِبۡرٰهِيۡمَ\u0026zwnj;",
+      "translationNo": "Og fortell dem historien om Ibrahim:",
+      "commentary": "",
+      "audioTalawat": "222013026069.mp3"
+    },
+    {
+      "number": 70,
+      "text": "اِذۡ قَالَ لِاَبِيۡهِ وَقَوۡمِهٖ مَا تَعۡبُدُوۡنَ",
+      "translationNo": "Da han spurte sin far og sitt folk: \u0026laquo;Hva er det dere tilber?\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "222103026070.mp3"
+    },
+    {
+      "number": 71,
+      "text": "قَالُوۡا نَـعۡبُدُ اَصۡنَامًا فَنَظَلُّ لَهَا عٰكِفِيۡنَ",
+      "translationNo": "De svarte: \u0026laquo;Vi tilber statuer og vi er stadig hengivne til dem.\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "222308026071.mp3"
+    },
+    {
+      "number": 72,
+      "text": "قَالَ هَلۡ يَسۡمَعُوۡنَكُمۡ اِذۡ تَدۡعُوۡنَۙ\u0026rlm;",
+      "translationNo": "Han spurte: \u0026laquo;H\u0026oslash;rer de dere n\u0026aring;r dere p\u0026aring;kaller dem,",
+      "commentary": "",
+      "audioTalawat": "222358026072.mp3"
+    },
+    {
+      "number": 73,
+      "text": "\u0026nbsp;اَوۡ يَنۡفَعُوۡنَكُمۡ اَوۡ يَضُرُّوۡنَ\u0026rlm;",
+      "translationNo": "eller bringer de dere noe nytte eller skade?\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "222446026073.mp3"
+    },
+    {
+      "number": 74,
+      "text": "قَالُوۡا بَلۡ وَجَدۡنَاۤ اٰبَآءَنَا كَذٰلِكَ يَفۡعَلُوۡنَ\u0026rlm;",
+      "translationNo": "De svarte: \u0026laquo;Nei, men vi har sett at v\u0026aring;re forfedre gjorde det samme.\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "222537026074.mp3"
+    },
+    {
+      "number": 75,
+      "text": "قَالَ اَفَرَءَيۡتُمۡ مَّا كُنۡتُمۡ تَعۡبُدُوۡنَۙ\u0026rlm;",
+      "translationNo": "Han sa: \u0026laquo;Ser dere (med \u0026aring;pne \u0026oslash;yne) hva dere har tilbedt,",
+      "commentary": "",
+      "audioTalawat": "222635026075.mp3"
+    },
+    {
+      "number": 76,
+      "text": "\u0026nbsp;اَنۡـتُمۡ وَاٰبَآؤُكُمُ الۡاَقۡدَمُوۡنَ \u0026zwnj;ۖ \u0026rlm;",
+      "translationNo": "b\u0026aring;de dere og deres forfedre?",
+      "commentary": "",
+      "audioTalawat": "222755026076.mp3"
+    },
+    {
+      "number": 77,
+      "text": "فَاِنَّهُمۡ عَدُوٌّ لِّىۡۤ اِلَّا رَبَّ الۡعٰلَمِيۡنَ",
+      "translationNo": "Alle disse er fiender for meg, unntatt universenes Herre,",
+      "commentary": "",
+      "audioTalawat": "222854026077.mp3"
+    },
+    {
+      "number": 78,
+      "text": "الَّذِىۡ خَلَقَنِىۡ فَهُوَ يَهۡدِيۡنِۙ\u0026rlm;",
+      "translationNo": "som skapte meg og veileder meg,",
+      "commentary": "",
+      "audioTalawat": "222958026078.mp3"
+    },
+    {
+      "number": 79,
+      "text": "\u0026nbsp;وَ الَّذِىۡ هُوَ يُطۡعِمُنِىۡ وَيَسۡقِيۡنِۙ\u0026rlm;",
+      "translationNo": "og som forsyner meg med mat og drikke,",
+      "commentary": "",
+      "audioTalawat": "223111026079.mp3"
+    },
+    {
+      "number": 80,
+      "text": "\u0026nbsp;وَاِذَا مَرِضۡتُ فَهُوَ يَشۡفِيۡنِ ۙ\u0026rlm;",
+      "translationNo": "og som helbreder meg n\u0026aring;r jeg blir syk,",
+      "commentary": "",
+      "audioTalawat": "223251026080.mp3"
+    },
+    {
+      "number": 81,
+      "text": "وَالَّذِىۡ يُمِيۡتُنِىۡ ثُمَّ يُحۡيِيۡنِۙ\u0026rlm;",
+      "translationNo": "og som vil for\u0026aring;rsake min d\u0026oslash;d og s\u0026aring; gjenreise meg,",
+      "commentary": "",
+      "audioTalawat": "223352026081.mp3"
+    },
+    {
+      "number": 82,
+      "text": "وَالَّذِىۡۤ اَطۡمَعُ اَنۡ يَّغۡفِرَ لِىۡ خَطِٓیْــَٔـتِىۡ يَوۡمَ الدِّيۡنِ ؕ\u0026rlm;",
+      "translationNo": "og som, jeg h\u0026aring;per, vil tilgi mine synder p\u0026aring; Dommens dag.\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "223452026082.mp3"
+    },
+    {
+      "number": 83,
+      "text": "رَبِّ هَبۡ لِىۡ حُكۡمًا وَّاَلۡحِقۡنِىۡ بِالصّٰلِحِيۡنَۙ\u0026rlm;",
+      "translationNo": "(S\u0026aring; ba Ibrahim:) \u0026laquo;Herre, gi meg kunnskap og visdom, og foren meg med de rettledede,",
+      "commentary": "",
+      "audioTalawat": "223551026083.mp3"
+    },
+    {
+      "number": 84,
+      "text": "وَاجۡعَلْ لِّىۡ لِسَانَ صِدۡقٍ فِى الۡاٰخِرِيۡنَۙ\u0026rlm;",
+      "translationNo": "og gi meg et \u0026aelig;rverdig rykte blant etterkommerne,",
+      "commentary": "",
+      "audioTalawat": "223735026084.mp3"
+    },
+    {
+      "number": 85,
+      "text": "وَاجۡعَلۡنِىۡ مِنۡ وَّرَثَةِ جَنَّةِ النَّعِيۡمِۙ\u0026rlm;",
+      "translationNo": "og la meg f\u0026aring; bli en av dem som skal arve gledenes hage,",
+      "commentary": "",
+      "audioTalawat": "223834026085.mp3"
+    },
+    {
+      "number": 86,
+      "text": "وَاغۡفِرۡ لِاَبِىۡۤ اِنَّهٗ كَانَ مِنَ الضَّآلِّيۡنَۙ\u0026rlm;",
+      "translationNo": "og tilgi min far, for han er blant dem som har g\u0026aring;tt p\u0026aring; avveie,",
+      "commentary": "",
+      "audioTalawat": "223926026086.mp3"
+    },
+    {
+      "number": 87,
+      "text": "وَلَا تُخۡزِنِىۡ يَوۡمَ يُبۡعَثُوۡنَۙ\u0026rlm;",
+      "translationNo": "og spar meg fra van\u0026aelig;re den dagen alle skal bli gjenreist,",
+      "commentary": "",
+      "audioTalawat": "224023026087.mp3"
+    },
+    {
+      "number": 88,
+      "text": "يَوۡمَ لَا يَنۡفَعُ مَالٌ وَّلَا بَنُوۡنَۙ\u0026rlm;",
+      "translationNo": "dagen da hverken rikdom eller avkom vil komme til nytte,",
+      "commentary": "",
+      "audioTalawat": "224124026088.mp3"
+    },
+    {
+      "number": 89,
+      "text": "اِلَّا مَنۡ اَتَى اللّٰهَ بِقَلۡبٍ سَلِيۡمٍؕ\u0026rlm;",
+      "translationNo": "men bare den som kommer til Allah med et godt hjerte (vil oppn\u0026aring; suksess).\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "224221026089.mp3"
+    },
+    {
+      "number": 90,
+      "text": "وَاُزۡلِفَتِ الۡجَـنَّةُ لِلۡمُتَّقِيۡنَۙ\u0026rlm;",
+      "translationNo": "Og (den dagen skal) Paradiset bringes n\u0026aelig;r de gudfryktige,\u003csup\u003e9\u003c/sup\u003e",
+      "commentary": "\u003cp\u003e9. Versene 90-102 er ikke en del av Ibrahims (a.s.) tale. Dette er Allahs tale.\u003c/p\u003e",
+      "audioTalawat": "224327026090.mp3"
+    },
+    {
+      "number": 91,
+      "text": "وَبُرِّزَتِ الۡجَحِيۡمُ لِلۡغٰوِيۡنَۙ\u0026rlm;",
+      "translationNo": "og helvete skal \u0026aring;pnes for de som gikk p\u0026aring; villspor,",
+      "commentary": "",
+      "audioTalawat": "224420026091.mp3"
+    },
+    {
+      "number": 92,
+      "text": "وَقِيۡلَ لَهُمۡ اَيۡنَمَا كُنۡتُمۡ تَعۡبُدُوۡنَۙ\u0026rlm;",
+      "translationNo": "og de vil bli spurt: \u0026laquo;Hvor er de gudene dere pleide \u0026aring; tilbe",
+      "commentary": "",
+      "audioTalawat": "224521026092.mp3"
+    },
+    {
+      "number": 93,
+      "text": "\u0026nbsp;مِنۡ دُوۡنِ اللّٰهِؕ هَلۡ يَنۡصُرُوۡنَكُمۡ اَوۡ يَنۡتَصِرُوۡنَؕ\u0026rlm;",
+      "translationNo": "utenom Allah? Kan de i det hele tatt v\u0026aelig;re til noe hjelp for dere, eller seg selv?\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "224618026093.mp3"
+    },
+    {
+      "number": 94,
+      "text": "فَكُبۡكِبُوۡا فِيۡهَا هُمۡ وَالۡغَاوٗنَۙ\u0026rlm;",
+      "translationNo": "S\u0026aring; skal b\u0026aring;de avgudene og de villfarne bli kastet i ilden, den ene hodestups etter den andre,",
+      "commentary": "",
+      "audioTalawat": "224720026094.mp3"
+    },
+    {
+      "number": 95,
+      "text": "وَجُنُوۡدُ اِبۡلِيۡسَ اَجۡمَعُوۡنَؕ\u0026rlm;",
+      "translationNo": "og ogs\u0026aring; Satans h\u0026aelig;r, hver og en av dem.",
+      "commentary": "",
+      "audioTalawat": "224834026095.mp3"
+    },
+    {
+      "number": 96,
+      "text": "\u0026nbsp;قَالُوۡا وَهُمۡ فِيۡهَا يَخۡتَصِمُوۡنَۙ\u0026rlm;",
+      "translationNo": "Der kommer de til \u0026aring; krangle med hverandre, og de villfarne vil si (til sine avguder):",
+      "commentary": "",
+      "audioTalawat": "224945026096.mp3"
+    },
+    {
+      "number": 97,
+      "text": "تَاللّٰهِ اِنۡ كُنَّا لَفِىۡ ضَلٰلٍ مُّبِيۡنٍۙ\u0026rlm;",
+      "translationNo": "\u0026laquo;Ved Allah, vi gjorde en stor feil",
+      "commentary": "",
+      "audioTalawat": "225047026097.mp3"
+    },
+    {
+      "number": 98,
+      "text": "اِذۡ نُسَوِّيۡكُمۡ بِرَبِّ الۡعٰلَمِيۡنَ",
+      "translationNo": "da vi likestilte dere med universenes Herre.",
+      "commentary": "",
+      "audioTalawat": "225202026098.mp3"
+    },
+    {
+      "number": 99,
+      "text": "وَمَاۤ اَضَلَّنَاۤ اِلَّا الۡمُجۡرِمُوۡنَ\u0026rlm;",
+      "translationNo": "Det var de syndige som villedet oss,",
+      "commentary": "",
+      "audioTalawat": "225254026099.mp3"
+    },
+    {
+      "number": 100,
+      "text": "\u0026nbsp; فَمَا لَـنَا مِنۡ شٰفِعِيۡنَۙ\u0026rlm;",
+      "translationNo": "og n\u0026aring; har vi ingen som kan g\u0026aring; i forb\u0026oslash;nn for oss,",
+      "commentary": "",
+      "audioTalawat": "225346026100.mp3"
+    },
+    {
+      "number": 101,
+      "text": "وَلَا صَدِيۡقٍ حَمِيۡمٍ\u0026rlm;",
+      "translationNo": "ei heller en oppriktig venn.",
+      "commentary": "",
+      "audioTalawat": "230056026101.mp3"
+    },
+    {
+      "number": 102,
+      "text": "فَلَوۡ اَنَّ لَـنَا كَرَّةً فَنَكُوۡنَ مِنَ الۡمُؤۡمِنِيۡنَ\u0026rlm;",
+      "translationNo": "Om vi bare hadde kunnet f\u0026aring; vende tilbake, s\u0026aring; hadde vi v\u0026aelig;rt blant de troende.\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "230155026102.mp3"
+    },
+    {
+      "number": 103,
+      "text": "اِنَّ فِىۡ ذٰ لِكَ لَاٰيَةً\u0026zwnj;\u0026ensp; ؕ وَّمَا كَانَ اَكۡثَرُهُمۡ مُّؤۡمِنِيۡنَ\u0026rlm;",
+      "translationNo": "Sannelig er det et tegn\u003csup\u003e10\u003c/sup\u003e i dette, men de fleste av dem vil ikke tro.e.\u0026nbsp;",
+      "commentary": "\u003cp\u003e10. Med \u0026laquo;tegn\u0026raquo; menes historien om sendebudet Ibrahim (a.s.)\u003c/p\u003e",
+      "audioTalawat": "230250026103.mp3"
+    },
+    {
+      "number": 104,
+      "text": "وَاِنَّ رَبَّكَ لَهُوَ الۡعَزِيۡزُ الرَّحِيۡمُ\u0026rlm;",
+      "translationNo": "Og sannelig er Herren Mektig, N\u0026aring;derik.",
+      "commentary": "",
+      "audioTalawat": "144008026104.mp3"
+    }
+  ]
+}

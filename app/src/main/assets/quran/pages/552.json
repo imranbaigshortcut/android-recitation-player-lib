@@ -1,0 +1,31 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 108,
+  "ayatStart": 1,
+  "ayatEnd": 3,
+  "pageNo": 552,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "اِنَّاۤ اَعۡطَيۡنٰكَ الۡكَوۡثَرَؕ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "185839108001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;فَصَلِّ لِرَبِّكَ وَانۡحَرۡ ؕ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "185938108002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "190021108003.mp3"
+    }
+  ]
+}

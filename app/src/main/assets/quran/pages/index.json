@@ -1,0 +1,916 @@
+{
+  "pageIndexList": [
+    {
+      "id": 3,
+      "name": "Al-Fatihah",
+      "nameArabic": "الفَاتِحَة",
+      "pageIndex": 0,
+      "pages": 1,
+      "suraNo": 1
+    },
+    {
+      "id": 10,
+      "name": "Al-Baqara",
+      "nameArabic": "البَقَرَة",
+      "pageIndex": 1,
+      "pages": 40,
+      "suraNo": 2
+    },
+    {
+      "id": 11,
+      "name": "Al-E-Imran",
+      "nameArabic": "آل عمران",
+      "pageIndex": 41,
+      "pages": 20,
+      "suraNo": 3
+    },
+    {
+      "id": 12,
+      "name": "An-Nisa",
+      "nameArabic": "النساء",
+      "pageIndex": 61,
+      "pages": 24,
+      "suraNo": 4
+    },
+    {
+      "id": 13,
+      "name": "Al-Maidah",
+      "nameArabic": "المَائدة",
+      "pageIndex": 85,
+      "pages": 16,
+      "suraNo": 5
+    },
+    {
+      "id": 14,
+      "name": "Al-An-am",
+      "nameArabic": "الاٴنعَام",
+      "pageIndex": 101,
+      "pages": 20,
+      "suraNo": 6
+    },
+    {
+      "id": 15,
+      "name": "Al Araf",
+      "nameArabic": "الاٴعرَاف",
+      "pageIndex": 121,
+      "pages": 24,
+      "suraNo": 7
+    },
+    {
+      "id": 16,
+      "name": "Al Anfal",
+      "nameArabic": "الاٴنفَال",
+      "pageIndex": 145,
+      "pages": 10,
+      "suraNo": 8
+    },
+    {
+      "id": 17,
+      "name": "At–Taubah",
+      "nameArabic": "التّوبَة",
+      "pageIndex": 155,
+      "pages": 16,
+      "suraNo": 9
+    },
+    {
+      "id": 18,
+      "name": "Jonos",
+      "nameArabic": "یُونس",
+      "pageIndex": 171,
+      "pages": 11,
+      "suraNo": 10
+    },
+    {
+      "id": 19,
+      "name": "Hood",
+      "nameArabic": "هُود",
+      "pageIndex": 182,
+      "pages": 10,
+      "suraNo": 11
+    },
+    {
+      "id": 20,
+      "name": "Josof",
+      "nameArabic": "یُوسُف",
+      "pageIndex": 192,
+      "pages": 12,
+      "suraNo": 12
+    },
+    {
+      "id": 46,
+      "name": "Ar Rad",
+      "nameArabic": "الرّعد",
+      "pageIndex": 204,
+      "pages": 6,
+      "suraNo": 13
+    },
+    {
+      "id": 50,
+      "name": "Ibrahim",
+      "nameArabic": "إبراهیم",
+      "pageIndex": 210,
+      "pages": 7,
+      "suraNo": 14
+    },
+    {
+      "id": 51,
+      "name": "Al-Hidjr",
+      "nameArabic": "الحِجر",
+      "pageIndex": 217,
+      "pages": 6,
+      "suraNo": 15
+    },
+    {
+      "id": 52,
+      "name": "An-Nahl",
+      "nameArabic": "النّحل",
+      "pageIndex": 223,
+      "pages": 16,
+      "suraNo": 16
+    },
+    {
+      "id": 53,
+      "name": "Bani Israil",
+      "nameArabic": "بنیٓ اسرآئیل",
+      "pageIndex": 239,
+      "pages": 12,
+      "suraNo": 17
+    },
+    {
+      "id": 54,
+      "name": "Al-Kahf",
+      "nameArabic": "الکهف",
+      "pageIndex": 251,
+      "pages": 12,
+      "suraNo": 18
+    },
+    {
+      "id": 55,
+      "name": "Maryam",
+      "nameArabic": "مَریَم",
+      "pageIndex": 263,
+      "pages": 6,
+      "suraNo": 19
+    },
+    {
+      "id": 56,
+      "name": "Ta-ha",
+      "nameArabic": "طٰه",
+      "pageIndex": 269,
+      "pages": 8,
+      "suraNo": 20
+    },
+    {
+      "id": 57,
+      "name": "Al-Anbiya",
+      "nameArabic": "الاٴنبیَاء",
+      "pageIndex": 277,
+      "pages": 7,
+      "suraNo": 21
+    },
+    {
+      "id": 75,
+      "name": "Al Hajj",
+      "nameArabic": "الحَجّ",
+      "pageIndex": 284,
+      "pages": 10,
+      "suraNo": 22
+    },
+    {
+      "id": 76,
+      "name": "Al Mominon",
+      "nameArabic": "المؤمنون",
+      "pageIndex": 294,
+      "pages": 6,
+      "suraNo": 23
+    },
+    {
+      "id": 77,
+      "name": "An Nor",
+      "nameArabic": "النور",
+      "pageIndex": 300,
+      "pages": 9,
+      "suraNo": 24
+    },
+    {
+      "id": 78,
+      "name": "Al Forqan",
+      "nameArabic": "الفرقان",
+      "pageIndex": 309,
+      "pages": 6,
+      "suraNo": 25
+    },
+    {
+      "id": 79,
+      "name": "Al Shuara",
+      "nameArabic": "الشعراء",
+      "pageIndex": 315,
+      "pages": 11,
+      "suraNo": 26
+    },
+    {
+      "id": 80,
+      "name": "Al Naml",
+      "nameArabic": "النمل",
+      "pageIndex": 326,
+      "pages": 7,
+      "suraNo": 27
+    },
+    {
+      "id": 81,
+      "name": "Al-Qaṣaṣ",
+      "nameArabic": "القصص",
+      "pageIndex": 333,
+      "pages": 9,
+      "suraNo": 28
+    },
+    {
+      "id": 82,
+      "name": "Al Ankabot",
+      "nameArabic": "العنكبوت",
+      "pageIndex": 342,
+      "pages": 7,
+      "suraNo": 29
+    },
+    {
+      "id": 83,
+      "name": "Al Room",
+      "nameArabic": "الروم",
+      "pageIndex": 349,
+      "pages": 6,
+      "suraNo": 30
+    },
+    {
+      "id": 84,
+      "name": "Luqman",
+      "nameArabic": "لقمان",
+      "pageIndex": 355,
+      "pages": 4,
+      "suraNo": 31
+    },
+    {
+      "id": 85,
+      "name": "As Sajda",
+      "nameArabic": "السجدة",
+      "pageIndex": 359,
+      "pages": 3,
+      "suraNo": 32
+    },
+    {
+      "id": 89,
+      "name": "Al-Aḥzãb",
+      "nameArabic": "الأحزاب",
+      "pageIndex": 362,
+      "pages": 9,
+      "suraNo": 33
+    },
+    {
+      "id": 90,
+      "name": "Saba",
+      "nameArabic": "سَبَأ",
+      "pageIndex": 371,
+      "pages": 6,
+      "suraNo": 34
+    },
+    {
+      "id": 91,
+      "name": "Fatir",
+      "nameArabic": "فاطر",
+      "pageIndex": 377,
+      "pages": 5,
+      "suraNo": 35
+    },
+    {
+      "id": 92,
+      "name": "Ya-Sin",
+      "nameArabic": "یسٓ",
+      "pageIndex": 382,
+      "pages": 5,
+      "suraNo": 36
+    },
+    {
+      "id": 93,
+      "name": "As-Saaffat",
+      "nameArabic": "الصافات",
+      "pageIndex": 387,
+      "pages": 5,
+      "suraNo": 37
+    },
+    {
+      "id": 94,
+      "name": "Sad",
+      "nameArabic": "ص",
+      "pageIndex": 392,
+      "pages": 5,
+      "suraNo": 38
+    },
+    {
+      "id": 95,
+      "name": "Az Zomar",
+      "nameArabic": "الزمر",
+      "pageIndex": 397,
+      "pages": 8,
+      "suraNo": 39
+    },
+    {
+      "id": 96,
+      "name": "Al-Momin",
+      "nameArabic": "المؤمن / غَافر",
+      "pageIndex": 405,
+      "pages": 9,
+      "suraNo": 40
+    },
+    {
+      "id": 97,
+      "name": "Ha-Mim",
+      "nameArabic": "حٰمٓ السجدة / فُصّلَت",
+      "pageIndex": 414,
+      "pages": 6,
+      "suraNo": 41
+    },
+    {
+      "id": 98,
+      "name": "Ash-Shora",
+      "nameArabic": "الشّوریٰ",
+      "pageIndex": 420,
+      "pages": 5,
+      "suraNo": 42
+    },
+    {
+      "id": 99,
+      "name": "Az-Zokhrof",
+      "nameArabic": "الزّخرُف",
+      "pageIndex": 425,
+      "pages": 7,
+      "suraNo": 43
+    },
+    {
+      "id": 102,
+      "name": "Ad Dokhan",
+      "nameArabic": "الدخان",
+      "pageIndex": 432,
+      "pages": 3,
+      "suraNo": 44
+    },
+    {
+      "id": 103,
+      "name": "Al Djathiya",
+      "nameArabic": "الجاثية",
+      "pageIndex": 435,
+      "pages": 4,
+      "suraNo": 45
+    },
+    {
+      "id": 104,
+      "name": "Al Ahqaf",
+      "nameArabic": "ٱلْأَحْقَاف",
+      "pageIndex": 439,
+      "pages": 4,
+      "suraNo": 46
+    },
+    {
+      "id": 105,
+      "name": "Muhammad",
+      "nameArabic": "محمد",
+      "pageIndex": 443,
+      "pages": 4,
+      "suraNo": 47
+    },
+    {
+      "id": 106,
+      "name": "Al Fath",
+      "nameArabic": "الفتح",
+      "pageIndex": 447,
+      "pages": 4,
+      "suraNo": 48
+    },
+    {
+      "id": 107,
+      "name": "Al Hodjorat",
+      "nameArabic": "الحجرات",
+      "pageIndex": 451,
+      "pages": 2,
+      "suraNo": 49
+    },
+    {
+      "id": 108,
+      "name": "Al Qaf",
+      "nameArabic": "ق",
+      "pageIndex": 453,
+      "pages": 3,
+      "suraNo": 50
+    },
+    {
+      "id": 109,
+      "name": "Al Dhariyat",
+      "nameArabic": "الذاريات",
+      "pageIndex": 456,
+      "pages": 3,
+      "suraNo": 51
+    },
+    {
+      "id": 110,
+      "name": "At Tor",
+      "nameArabic": "الطور",
+      "pageIndex": 459,
+      "pages": 2,
+      "suraNo": 52
+    },
+    {
+      "id": 111,
+      "name": "An Nadjm",
+      "nameArabic": "النجم",
+      "pageIndex": 461,
+      "pages": 3,
+      "suraNo": 53
+    },
+    {
+      "id": 112,
+      "name": "Al Qamar",
+      "nameArabic": "القمر",
+      "pageIndex": 464,
+      "pages": 3,
+      "suraNo": 54
+    },
+    {
+      "id": 113,
+      "name": "Ar Rahman",
+      "nameArabic": "الرحمان",
+      "pageIndex": 467,
+      "pages": 3,
+      "suraNo": 55
+    },
+    {
+      "id": 114,
+      "name": "Al Waqiah",
+      "nameArabic": "الواقعة",
+      "pageIndex": 470,
+      "pages": 3,
+      "suraNo": 56
+    },
+    {
+      "id": 115,
+      "name": "Al Hadid",
+      "nameArabic": "الحديد",
+      "pageIndex": 473,
+      "pages": 4,
+      "suraNo": 57
+    },
+    {
+      "id": 116,
+      "name": "Al Modjadilah",
+      "nameArabic": "المجادلة",
+      "pageIndex": 477,
+      "pages": 3,
+      "suraNo": 58
+    },
+    {
+      "id": 101,
+      "name": "Al-Hashr",
+      "nameArabic": "الحَشر",
+      "pageIndex": 480,
+      "pages": 3,
+      "suraNo": 59
+    },
+    {
+      "id": 100,
+      "name": "Al-Momtahina",
+      "nameArabic": "المُمتَحنَة",
+      "pageIndex": 483,
+      "pages": 2,
+      "suraNo": 60
+    },
+    {
+      "id": 88,
+      "name": "As Saff",
+      "nameArabic": "الصَّف",
+      "pageIndex": 485,
+      "pages": 2,
+      "suraNo": 61
+    },
+    {
+      "id": 87,
+      "name": "Al Jumuah",
+      "nameArabic": "الجُمُعَة",
+      "pageIndex": 487,
+      "pages": 2,
+      "suraNo": 62
+    },
+    {
+      "id": 86,
+      "name": "Al Monafiqon",
+      "nameArabic": "المنَافِقون",
+      "pageIndex": 489,
+      "pages": 2,
+      "suraNo": 63
+    },
+    {
+      "id": 74,
+      "name": "At-Taghabon",
+      "nameArabic": "التّغَابُن",
+      "pageIndex": 491,
+      "pages": 2,
+      "suraNo": 64
+    },
+    {
+      "id": 73,
+      "name": "At-Talaq",
+      "nameArabic": "الطّلاَق",
+      "pageIndex": 493,
+      "pages": 2,
+      "suraNo": 65
+    },
+    {
+      "id": 72,
+      "name": "At-Tahrim",
+      "nameArabic": "التّحْریم",
+      "pageIndex": 495,
+      "pages": 2,
+      "suraNo": 66
+    },
+    {
+      "id": 71,
+      "name": "Al-Mulk",
+      "nameArabic": "المُلک",
+      "pageIndex": 497,
+      "pages": 2,
+      "suraNo": 67
+    },
+    {
+      "id": 70,
+      "name": "Al-Qalam",
+      "nameArabic": "القَلَم",
+      "pageIndex": 499,
+      "pages": 2,
+      "suraNo": 68
+    },
+    {
+      "id": 69,
+      "name": "Al-Haqqah",
+      "nameArabic": "الحَاقَّة",
+      "pageIndex": 501,
+      "pages": 2,
+      "suraNo": 69
+    },
+    {
+      "id": 68,
+      "name": "Al-Ma\u0027aridj",
+      "nameArabic": "المعَارج",
+      "pageIndex": 503,
+      "pages": 2,
+      "suraNo": 70
+    },
+    {
+      "id": 67,
+      "name": "Nuh",
+      "nameArabic": "نُوح",
+      "pageIndex": 505,
+      "pages": 2,
+      "suraNo": 71
+    },
+    {
+      "id": 49,
+      "name": "Al-Djinn",
+      "nameArabic": "الجنّ",
+      "pageIndex": 507,
+      "pages": 2,
+      "suraNo": 72
+    },
+    {
+      "id": 48,
+      "name": "Al Muzzammil",
+      "nameArabic": "المُزمّل",
+      "pageIndex": 509,
+      "pages": 2,
+      "suraNo": 73
+    },
+    {
+      "id": 47,
+      "name": "Al Muddaththir",
+      "nameArabic": "المدَّثِّر",
+      "pageIndex": 511,
+      "pages": 2,
+      "suraNo": 74
+    },
+    {
+      "id": 58,
+      "name": "Al Qiyama",
+      "nameArabic": "القِیَامَة",
+      "pageIndex": 513,
+      "pages": 2,
+      "suraNo": 75
+    },
+    {
+      "id": 59,
+      "name": "Al Insan",
+      "nameArabic": "ٱلدَّهۡر / الإنسَان",
+      "pageIndex": 515,
+      "pages": 2,
+      "suraNo": 76
+    },
+    {
+      "id": 60,
+      "name": "Al Mursalat",
+      "nameArabic": "المُرسَلات",
+      "pageIndex": 517,
+      "pages": 2,
+      "suraNo": 77
+    },
+    {
+      "id": 61,
+      "name": "An Naba",
+      "nameArabic": "النّبَإِ",
+      "pageIndex": 519,
+      "pages": 2,
+      "suraNo": 78
+    },
+    {
+      "id": 62,
+      "name": "An Naziat",
+      "nameArabic": "النَّازعَات",
+      "pageIndex": 521,
+      "pages": 2,
+      "suraNo": 79
+    },
+    {
+      "id": 63,
+      "name": "Abasa",
+      "nameArabic": "عَبَسَ",
+      "pageIndex": 523,
+      "pages": 1,
+      "suraNo": 80
+    },
+    {
+      "id": 64,
+      "name": "Al Takwir",
+      "nameArabic": "التّکویر",
+      "pageIndex": 524,
+      "pages": 1,
+      "suraNo": 81
+    },
+    {
+      "id": 65,
+      "name": "Al Infitar",
+      "nameArabic": "الانفِطار",
+      "pageIndex": 525,
+      "pages": 1,
+      "suraNo": 82
+    },
+    {
+      "id": 66,
+      "name": "Al Mutaffifin",
+      "nameArabic": "المطفّفِین",
+      "pageIndex": 526,
+      "pages": 1,
+      "suraNo": 83
+    },
+    {
+      "id": 45,
+      "name": "Al Inshiqaq",
+      "nameArabic": "الانشقاق",
+      "pageIndex": 527,
+      "pages": 1,
+      "suraNo": 84
+    },
+    {
+      "id": 44,
+      "name": "Al Burooj",
+      "nameArabic": "البُرُوج",
+      "pageIndex": 528,
+      "pages": 1,
+      "suraNo": 85
+    },
+    {
+      "id": 43,
+      "name": "At Tariq",
+      "nameArabic": "الطّارق",
+      "pageIndex": 529,
+      "pages": 1,
+      "suraNo": 86
+    },
+    {
+      "id": 42,
+      "name": "Al Ala",
+      "nameArabic": "الاٴعلی",
+      "pageIndex": 530,
+      "pages": 1,
+      "suraNo": 87
+    },
+    {
+      "id": 41,
+      "name": "Al Ghashiya",
+      "nameArabic": "الغَاشِیَة",
+      "pageIndex": 531,
+      "pages": 1,
+      "suraNo": 88
+    },
+    {
+      "id": 40,
+      "name": "Al Fajr",
+      "nameArabic": "الفَجر",
+      "pageIndex": 532,
+      "pages": 1,
+      "suraNo": 89
+    },
+    {
+      "id": 39,
+      "name": "Al Balad",
+      "nameArabic": "البَلَد",
+      "pageIndex": 533,
+      "pages": 1,
+      "suraNo": 90
+    },
+    {
+      "id": 38,
+      "name": "Ash Shams",
+      "nameArabic": "الشّمس",
+      "pageIndex": 534,
+      "pages": 1,
+      "suraNo": 91
+    },
+    {
+      "id": 37,
+      "name": "Al Lail",
+      "nameArabic": "اللیْل",
+      "pageIndex": 535,
+      "pages": 1,
+      "suraNo": 92
+    },
+    {
+      "id": 36,
+      "name": "Ad Dhuha",
+      "nameArabic": "الِضُّحىٰ",
+      "pageIndex": 536,
+      "pages": 1,
+      "suraNo": 93
+    },
+    {
+      "id": 35,
+      "name": "Ash Sharh",
+      "nameArabic": "الشَّرح",
+      "pageIndex": 537,
+      "pages": 1,
+      "suraNo": 94
+    },
+    {
+      "id": 34,
+      "name": "At Tin",
+      "nameArabic": "التِّین",
+      "pageIndex": 538,
+      "pages": 1,
+      "suraNo": 95
+    },
+    {
+      "id": 33,
+      "name": "Al Alaq",
+      "nameArabic": "العَلق",
+      "pageIndex": 539,
+      "pages": 1,
+      "suraNo": 96
+    },
+    {
+      "id": 32,
+      "name": "Al Qadr",
+      "nameArabic": "القَدر",
+      "pageIndex": 540,
+      "pages": 1,
+      "suraNo": 97
+    },
+    {
+      "id": 31,
+      "name": "Al Bayyina",
+      "nameArabic": "البَیّنَة",
+      "pageIndex": 541,
+      "pages": 1,
+      "suraNo": 98
+    },
+    {
+      "id": 30,
+      "name": "Al Zalzala",
+      "nameArabic": "الزّلزَلة",
+      "pageIndex": 542,
+      "pages": 1,
+      "suraNo": 99
+    },
+    {
+      "id": 29,
+      "name": "Al Adiyat",
+      "nameArabic": "العَادیَات",
+      "pageIndex": 543,
+      "pages": 1,
+      "suraNo": 100
+    },
+    {
+      "id": 28,
+      "name": "Al Qaria",
+      "nameArabic": "القَارعَة",
+      "pageIndex": 544,
+      "pages": 1,
+      "suraNo": 101
+    },
+    {
+      "id": 27,
+      "name": "Al Takathur",
+      "nameArabic": "التّکاثُر",
+      "pageIndex": 545,
+      "pages": 1,
+      "suraNo": 102
+    },
+    {
+      "id": 26,
+      "name": "Al Asr",
+      "nameArabic": "العَصر",
+      "pageIndex": 546,
+      "pages": 1,
+      "suraNo": 103
+    },
+    {
+      "id": 8,
+      "name": "Al Mumaza",
+      "nameArabic": "الهُمَزة",
+      "pageIndex": 547,
+      "pages": 1,
+      "suraNo": 104
+    },
+    {
+      "id": 9,
+      "name": "Al-Fil",
+      "nameArabic": "الفِیل",
+      "pageIndex": 548,
+      "pages": 1,
+      "suraNo": 105
+    },
+    {
+      "id": 25,
+      "name": "Quraish",
+      "nameArabic": "قُرَیش",
+      "pageIndex": 549,
+      "pages": 1,
+      "suraNo": 106
+    },
+    {
+      "id": 24,
+      "name": "Al Maun",
+      "nameArabic": "المَاعون",
+      "pageIndex": 550,
+      "pages": 1,
+      "suraNo": 107
+    },
+    {
+      "id": 23,
+      "name": "Al Kauther",
+      "nameArabic": "الکَوثَر",
+      "pageIndex": 551,
+      "pages": 1,
+      "suraNo": 108
+    },
+    {
+      "id": 7,
+      "name": "Al-Kafiroon",
+      "nameArabic": "الکافِرون",
+      "pageIndex": 552,
+      "pages": 1,
+      "suraNo": 109
+    },
+    {
+      "id": 6,
+      "name": "An Nasr",
+      "nameArabic": "النّصر",
+      "pageIndex": 553,
+      "pages": 1,
+      "suraNo": 110
+    },
+    {
+      "id": 22,
+      "name": "Al Masadd",
+      "nameArabic": "لهب / المَسَد",
+      "pageIndex": 554,
+      "pages": 1,
+      "suraNo": 111
+    },
+    {
+      "id": 21,
+      "name": "Al Ikhlas",
+      "nameArabic": "الإخلاص",
+      "pageIndex": 555,
+      "pages": 1,
+      "suraNo": 112
+    },
+    {
+      "id": 5,
+      "name": "Al-Falaq",
+      "nameArabic": "الفَلَق",
+      "pageIndex": 556,
+      "pages": 1,
+      "suraNo": 113
+    },
+    {
+      "id": 4,
+      "name": "An-Nas",
+      "nameArabic": "النَّاس",
+      "pageIndex": 557,
+      "pages": 1,
+      "suraNo": 114
+    }
+  ]
+}

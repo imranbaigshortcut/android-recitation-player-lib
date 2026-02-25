@@ -1,0 +1,87 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 32,
+  "ayatStart": 1,
+  "ayatEnd": 11,
+  "pageNo": 360,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "الٓمّٓ",
+      "translationNo": "Alif, Lam, Mim.",
+      "commentary": "",
+      "audioTalawat": "210612032001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "ۚ تَنۡزِيۡلُ الۡكِتٰبِ لَا رَيۡبَ فِيۡهِ مِنۡ رَّبِّ الۡعٰلَمِيۡنَؕ",
+      "translationNo": "Det er ingen tvil om at denne Boken er \u0026aring;penbart av universenes Herre. ",
+      "commentary": "",
+      "audioTalawat": "210813032002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "اَمۡ يَقُوۡلُوۡنَ افۡتَرٰٮهُ\u0026zwnj;ۚ بَلۡ هُوَ الۡحَقُّ مِنۡ رَّبِّكَ لِتُنۡذِرَ قَوۡمًا مَّاۤ اَتٰٮهُمۡ مِّنۡ نَّذِيۡرٍ مِّنۡ قَبۡلِكَ لَعَلَّهُمۡ يَهۡتَدُوۡنَ",
+      "translationNo": "Eller sier de: \u0026laquo;Han har diktet den opp?\u0026raquo; Nei, dette er sannheten fra din Herre slik at du kan advare et folk som det ikke er kommet noen advarer til f\u0026oslash;r deg; kanskje de blir veiledet til Den rette vei.",
+      "commentary": "",
+      "audioTalawat": "210903032003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "اَللّٰهُ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ وَمَا بَيۡنَهُمَا فِىۡ سِتَّةِ اَيَّامٍ ثُمَّ اسۡتَوٰى عَلَى الۡعَرۡشِ\u0026zwnj;ؕ مَا لَكُمۡ مِّنۡ دُوۡنِهٖ مِنۡ وَّلِىٍّ وَّلَا شَفِيۡعٍ\u0026zwnj;ؕ اَفَلَا تَتَذَكَّرُوۡنَ\u0026rlm;",
+      "translationNo": "Det er Allah som har skapt himlene og jorden, og alt som finnes mellom dem, p\u0026aring; seks dager (perioder), og s\u0026aring; etablerte Han Seg p\u0026aring; Tronen. Dere har ingen beskytter eller noen som kan g\u0026aring; i forb\u0026oslash;nn, unntatt Ham. Skal dere ikke ta til fornuft?",
+      "commentary": "",
+      "audioTalawat": "210945032004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "يُدَبِّرُ الۡاَمۡرَ مِنَ السَّمَآءِ اِلَى الۡاَرۡضِ ثُمَّ يَعۡرُجُ اِلَيۡهِ فِىۡ يَوۡمٍ كَانَ مِقۡدَارُهٗۤ اَلۡفَ سَنَةٍ مِّمَّا تَعُدُّوۡنَ",
+      "translationNo": "Han styrer alt mellom himmelen og jorden, og regnskapet om Hans skapelse g\u0026aring;r opp til Ham p\u0026aring; en dag (Dommens dag) hvis lengde tilsvarer ett tusen \u0026aring;r etter deres tidsberegning.\u003csup\u003e1\u003c/sup\u003e",
+      "commentary": "\u003cp\u003e1. Uttrykket \u003cem\u003ejaom\u003c/em\u003e (dag, periode, epoke) nevnes flere ganger i Koranen og har ulike lengder/varigheter. Begrepet \u0026laquo;tid\u0026raquo; behandles derfor relativt i Koranen. Skapelsen av himlene og jorden og alt som er mellom ble gjort over seks perioder/dager, hvis lengder eller varighet er det bare Allah som vet eksakt noe om. En dag, slik Allah nevner, er annerledes fra den menneskelige definisjonen.\u003c/p\u003e",
+      "audioTalawat": "211024032005.mp3"
+    },
+    {
+      "number": 6,
+      "text": "ذٰلِكَ عٰلِمُ الۡغَيۡبِ وَالشَّهَادَةِ الۡعَزِيۡزُ الرَّحِيۡمُۙ",
+      "translationNo": "Det er Han som vet alt som er skjult og alt som er \u0026aring;pent. Han er den Mektige, den N\u0026aring;derike.",
+      "commentary": "",
+      "audioTalawat": "211109032006.mp3"
+    },
+    {
+      "number": 7,
+      "text": "الَّذِىۡۤ اَحۡسَنَ كُلَّ شَىۡءٍ خَلَقَهٗ\u0026zwnj; وَبَدَاَ خَلۡقَ الۡاِنۡسَانِ مِنۡ طِيۡنٍ\u0026zwnj;ۚ\u0026rlm;",
+      "translationNo": "Alt Han har skapt, er skapt p\u0026aring; en utmerket m\u0026aring;te. Han begynte skapelsen av mennesket av leire,",
+      "commentary": "",
+      "audioTalawat": "211153032007.mp3"
+    },
+    {
+      "number": 8,
+      "text": "ثُمَّ جَعَلَ نَسۡلَهٗ مِنۡ سُلٰلَةٍ مِّنۡ مَّآءٍ مَّهِيۡنٍ\u0026zwnj;ۚ\u0026rlm;",
+      "translationNo": "s\u0026aring; skapte Han dets avkom fra ekstraktet til en uvesentlig dr\u0026aring;pe,",
+      "commentary": "",
+      "audioTalawat": "211232032008.mp3"
+    },
+    {
+      "number": 9,
+      "text": "ثُمَّ سَوّٰٮهُ وَنَفَخَ فِيۡهِ مِنۡ رُّوۡحِهٖ\u0026zwnj; وَجَعَلَ لَكُمُ السَّمۡعَ وَالۡاَبۡصَارَ وَالۡاَفۡـــِٕدَةَ \u0026zwnj; ؕ قَلِيۡلًا مَّا تَشۡكُرُوۡنَ",
+      "translationNo": "s\u0026aring; ga Han det en passende form og bl\u0026aring;ste i det Sin \u0026aring;nd, og ga dere \u0026oslash;rer og \u0026oslash;yne og hjerter. Likevel er dere lite takknemlige.",
+      "commentary": "",
+      "audioTalawat": "211341032009.mp3"
+    },
+    {
+      "number": 10,
+      "text": "وَقَالُوۡٓا ءَاِذَا ضَلَلۡنَا فِى الۡاَرۡضِ ءَاِنَّا لَفِىۡ خَلۡقٍ جَدِيۡدٍ\u0026ensp;ؕ \u0026zwnj;بَلۡ هُمۡ بِلِقَآءِ رَبِّهِمۡ كٰفِرُوۡنَ\u0026rlm;",
+      "translationNo": "De sier: \u0026laquo;Skal vi bli skapt p\u0026aring; nytt etter at vi har r\u0026aring;tnet i jorden?\u0026raquo; Nei, sannheten er at de fornekter at de skal m\u0026oslash;te sin Herre.",
+      "commentary": "",
+      "audioTalawat": "211445032010.mp3"
+    },
+    {
+      "number": 11,
+      "text": "قُلۡ يَتَوَفّٰٮكُمۡ مَّلَكُ الۡمَوۡتِ الَّذِىۡ وُكِّلَ بِكُمۡ ثُمَّ اِلٰى رَبِّكُمۡ تُرۡجَعُوۡنَ\u0026rlm;",
+      "translationNo": "Si: \u0026laquo;D\u0026oslash;dens engel, som har f\u0026aring;tt ansvaret, skal ta sjelene deres, og s\u0026aring; skal dere bringes tilbake til deres Herre.\u0026raquo;",
+      "commentary": "",
+      "audioTalawat": "211530032011.mp3"
+    }
+  ]
+}

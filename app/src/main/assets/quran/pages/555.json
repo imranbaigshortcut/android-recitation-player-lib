@@ -1,0 +1,45 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 111,
+  "ayatStart": 1,
+  "ayatEnd": 5,
+  "pageNo": 555,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "تَبَّتۡ يَدَاۤ اَبِىۡ لَهَبٍ وَّتَبَّؕ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "121528111001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;مَاۤ اَغۡنٰى عَنۡهُ مَالُهٗ وَمَا كَسَبَؕ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "121626111002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "سَيَصۡلٰى نَارًا ذَاتَ لَهَبٍ\u0026ensp;ۖۚ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "121706111003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;وَّامۡرَاَ تُهٗ ؕ حَمَّالَةَ الۡحَطَبِ\u0026zwnj;ۚ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "121747111004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "\u0026nbsp;فِىۡ جِيۡدِهَا حَبۡلٌ مِّنۡ مَّسَدٍ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "121830111005.mp3"
+    }
+  ]
+}

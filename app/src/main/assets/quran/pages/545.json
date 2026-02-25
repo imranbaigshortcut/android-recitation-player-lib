@@ -1,0 +1,87 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 101,
+  "ayatStart": 1,
+  "ayatEnd": 11,
+  "pageNo": 545,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "اَلۡقَارِعَةُ ۙ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101134101001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;مَا الۡقَارِعَةُ\u0026zwnj; ۚ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101208101002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "وَمَاۤ اَدۡرٰٮكَ مَا الۡقَارِعَةُ ؕ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101243101003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;يَوۡمَ يَكُوۡنُ النَّاسُ كَالۡفَرَاشِ الۡمَبۡثُوۡثِۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101319101004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "وَتَكُوۡنُ الۡجِبَالُ كَالۡعِهۡنِ الۡمَنۡفُوۡشِؕ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101352101005.mp3"
+    },
+    {
+      "number": 6,
+      "text": "\u0026nbsp;فَاَمَّا مَنۡ ثَقُلَتۡ مَوَازِيۡنُهٗ ۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101425101006.mp3"
+    },
+    {
+      "number": 7,
+      "text": "\u0026nbsp;فَهُوَ فِىۡ عِيۡشَةٍ رَّاضِيَةٍ ؕ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101501101007.mp3"
+    },
+    {
+      "number": 8,
+      "text": "\u0026nbsp;وَاَمَّا مَنۡ خَفَّتۡ مَوَازِيۡنُهٗ ۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101535101008.mp3"
+    },
+    {
+      "number": 9,
+      "text": "\u0026nbsp;فَاُمُّهٗ هَاوِيَةٌ\u0026ensp;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101611101009.mp3"
+    },
+    {
+      "number": 10,
+      "text": "\u0026nbsp;وَمَاۤ اَدۡرٰٮكَ مَا هِيَهۡ ؕ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101645101010.mp3"
+    },
+    {
+      "number": 11,
+      "text": "\u0026nbsp;نَارٌ حَامِيَةٌ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "101718101011.mp3"
+    }
+  ]
+}

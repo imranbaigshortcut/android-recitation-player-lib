@@ -1,0 +1,59 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 107,
+  "ayatStart": 1,
+  "ayatEnd": 7,
+  "pageNo": 551,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "اَرَءَيۡتَ الَّذِىۡ يُكَذِّبُ بِالدِّيۡنِؕ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191056107001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;فَذٰلِكَ الَّذِىۡ يَدُعُّ الۡيَتِيۡمَۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191135107002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;وَ لَا يَحُضُّ عَلٰى طَعَامِ الۡمِسۡكِيۡنِؕ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191211107003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;فَوَيۡلٌ لِّلۡمُصَلِّيۡنَۙ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191250107004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "الَّذِيۡنَ هُمۡ عَنۡ صَلَاتِهِمۡ سَاهُوۡنَۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191328107005.mp3"
+    },
+    {
+      "number": 6,
+      "text": "\u0026nbsp;الَّذِيۡنَ هُمۡ يُرَآءُوۡنَۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191405107006.mp3"
+    },
+    {
+      "number": 7,
+      "text": "\u0026nbsp;وَيَمۡنَعُوۡنَ الۡمَاعُوۡنَ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191447107007.mp3"
+    }
+  ]
+}

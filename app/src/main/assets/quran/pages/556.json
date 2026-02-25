@@ -1,0 +1,38 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 112,
+  "ayatStart": 1,
+  "ayatEnd": 4,
+  "pageNo": 556,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "قُلۡ هُوَ اللّٰهُ اَحَدٌ\u0026zwnj; ۚ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "120535112001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "اَللّٰهُ الصَّمَدُ\u0026zwnj; ۚ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "120622112002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;لَمۡ يَلِدۡ \u0026ensp; ۙ وَلَمۡ يُوۡلَدۡ ۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "120705112003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ \u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "120753112004.mp3"
+    }
+  ]
+}

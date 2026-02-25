@@ -1,0 +1,45 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 105,
+  "ayatStart": 1,
+  "ayatEnd": 5,
+  "pageNo": 549,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "اَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِاَصۡحٰبِ الۡفِيۡلِؕ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "192421105001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;اَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِىۡ تَضۡلِيۡلٍۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "192501105002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "وَّاَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا اَبَابِيۡلَۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "192537105003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;تَرۡمِيۡهِمۡ بِحِجَارَةٍ مِّنۡ سِجِّيۡلٍۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "192616105004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "\u0026nbsp;فَجَعَلَهُمۡ كَعَصۡفٍ مَّاۡكُوۡلٍ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "192657105005.mp3"
+    }
+  ]
+}

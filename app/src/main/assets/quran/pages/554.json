@@ -1,0 +1,31 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 110,
+  "ayatStart": 1,
+  "ayatEnd": 3,
+  "pageNo": 554,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "اِذَا جَآءَ نَصۡرُ اللّٰهِ وَالۡفَتۡحُۙ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "122415110001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;وَرَاَيۡتَ النَّاسَ يَدۡخُلُوۡنَ فِىۡ دِيۡنِ اللّٰهِ اَفۡوَاجًا ۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "122453110002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَاسۡتَغۡفِرۡهُ\u0026zwnj; ؔؕ اِنَّهٗ كَانَ تَوَّابًا\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "122546110003.mp3"
+    }
+  ]
+}

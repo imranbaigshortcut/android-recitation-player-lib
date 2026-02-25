@@ -1,0 +1,45 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 113,
+  "ayatStart": 1,
+  "ayatEnd": 5,
+  "pageNo": 557,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "110454113001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;مِنۡ شَرِّ مَا خَلَقَۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "115451113002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "135126113003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "135255113004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "\u0026nbsp;وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "135354113005.mp3"
+    }
+  ]
+}

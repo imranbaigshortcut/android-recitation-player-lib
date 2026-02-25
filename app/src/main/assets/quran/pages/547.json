@@ -1,0 +1,31 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 103,
+  "ayatStart": 1,
+  "ayatEnd": 3,
+  "pageNo": 547,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "وَالۡعَصۡرِۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "095857103001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;اِنَّ الۡاِنۡسَانَ لَفِىۡ خُسۡرٍۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "095933103002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;اِلَّا الَّذِيۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوۡا بِالۡحَقِّ \u0026ensp; ۙ وَتَوَاصَوۡا بِالصَّبۡرِ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "100015103003.mp3"
+    }
+  ]
+}

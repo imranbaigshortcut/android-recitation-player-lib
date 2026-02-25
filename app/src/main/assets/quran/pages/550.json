@@ -1,0 +1,38 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 106,
+  "ayatStart": 1,
+  "ayatEnd": 4,
+  "pageNo": 550,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "لِاِيۡلٰفِ قُرَيۡشٍۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191654106001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;اٖلٰفِهِمۡ رِحۡلَةَ الشِّتَآءِ وَالصَّيۡفِ\u0026zwnj;ۚ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191735106002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "فَلۡيَـعۡبُدُوۡا رَبَّ هٰذَا الۡبَيۡتِۙ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191810106003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "الَّذِىۡۤ اَطۡعَمَهُمۡ مِّنۡ جُوۡعٍ  \u0026ensp;ۙ وَّاٰمَنَهُمۡ مِّنۡ خَوۡفٍ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "191851106004.mp3"
+    }
+  ]
+}

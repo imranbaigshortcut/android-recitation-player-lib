@@ -1,0 +1,461 @@
+{"suras": {
+    "idMap": [
+      {
+        "id":"3",
+        "name": "1 - Al-Fatihah"
+      },
+      {
+        "id": "10",
+        "name": "2 - Al-Baqara"
+      },
+      {
+        "id": "11",
+        "name": "3 - Al-E-Imran"
+      },
+      {
+        "id": "12",
+        "name": "4 - An-Nisa"
+      },
+      {
+        "id": "13",
+        "name": "5 - Al-Maidah"
+      },
+      {
+        "id": "14",
+        "name": "6 - Al-An-am"
+      },
+      {
+        "id": "15",
+        "name": "7 - Al Araf"
+      },
+      {
+        "id": "16",
+        "name": "8 - Al Anfal"
+      },
+      {
+        "id": "17",
+        "name": "9 - At–Taubah"
+      },
+      {
+        "id": "18",
+        "name": "10 - Jonos"
+      },
+      {
+        "id": "19",
+        "name": "11 - Hood"
+      },
+      {
+        "id": "20",
+        "name": "12 - Josof"
+      },
+      {
+        "id": "46",
+        "name": "13 - Ar Rad"
+      },
+      {
+        "id": "50",
+        "name": "14 - Ibrahim"
+      },
+      {
+        "id": "51",
+        "name": "15 - Al-Hidjr"
+      },
+      {
+        "id": "52",
+        "name": "16 - An-Nahl"
+      },
+      {
+        "id": "53",
+        "name": "17 - Al-Isra/Bani Israil"
+      },
+      {
+        "id": "54",
+        "name": "18 - Al-Kahf"
+      },
+      {
+        "id": "55",
+        "name": "19 - Maryam"
+      },
+      {
+        "id": "56",
+        "name": "20 - Ta-ha"
+      },
+      {
+        "id": "57",
+        "name": "21 - Al-Anbiya"
+      },
+      {
+        "id": "75",
+        "name": "22 - Al Hajj"
+      },
+      {
+        "id": "76",
+        "name": "23 - Al Mominon"
+      },
+      {
+        "id": "77",
+        "name": "24 - An Nor"
+      },
+      {
+        "id": "78",
+        "name": "25 - Al Forqan"
+      },
+      {
+        "id": "79",
+        "name": "26 - Al Shuara"
+      },
+      {
+        "id": "80",
+        "name": "27 - Al Naml"
+      },
+      {
+        "id": "81",
+        "name": "28 - Al-Qaṣaṣ"
+      },
+      {
+        "id": "82",
+        "name": "29 - Al Ankabot"
+      },
+      {
+        "id": "83",
+        "name": "30 - Al Room"
+      },
+      {
+        "id": "84",
+        "name": "31 - Luqman"
+      },
+      {
+        "id": "85",
+        "name": "32 - As Sajda"
+      },
+      {
+        "id": "89",
+        "name": "33 - Al-Aḥzãb"
+      },
+      {
+        "id": "90",
+        "name": "34 - Saba"
+      },
+      {
+        "id": "91",
+        "name": "35 - Fatir"
+      },
+      {
+        "id": "92",
+        "name": "36 - Ya-Sin"
+      },
+      {
+        "id": "93",
+        "name": "37 - As-Saaffat"
+      },
+      {
+        "id": "94",
+        "name": "38 - Sad"
+      },
+      {
+        "id": "95",
+        "name": "39 - Az Zomar"
+      },
+      {
+        "id": "96",
+        "name": "40 - Al-Momin"
+      },
+      {
+        "id": "97",
+        "name": "41 - Ha-Mim"
+      },
+      {
+        "id": "98",
+        "name": "42 - Ash-Shora"
+      },
+      {
+        "id": "99",
+        "name": "43 - Az-Zokhrof"
+      },
+      {
+        "id": "102",
+        "name": "44 - Ad Dokhan"
+      },
+      {
+        "id": "103",
+        "name": "45 - Al Djathiya"
+      },
+      {
+        "id": "104",
+        "name": "46 - Al Ahqaf"
+      },
+      {
+        "id": "105",
+        "name": "47 - Muhammad"
+      },
+      {
+        "id": "106",
+        "name": "48 - Al Fath"
+      },
+      {
+        "id": "107",
+        "name": "49 - Al Hodjorat"
+      },
+      {
+        "id": "108",
+        "name": "50 - Al Qaf"
+      },
+      {
+        "id": "109",
+        "name": "51 - Al Dhariyat"
+      },
+      {
+        "id": "110",
+        "name": "52 - At Tor"
+      },
+      {
+        "id": "111",
+        "name": "53 - An Nadjm"
+      },
+      {
+        "id": "112",
+        "name": "54 - Al Qamar"
+      },
+      {
+        "id": "113",
+        "name": "55 - Ar Rahman"
+      },
+      {
+        "id": "114",
+        "name": "56 - Al Waqiah"
+      },
+      {
+        "id": "115",
+        "name": "57 - Al Hadid"
+      },
+      {
+        "id": "116",
+        "name": "58 - Al Modjadilah"
+      },
+      {
+        "id": "101",
+        "name": "59 - Al-Hashr"
+      },
+      {
+        "id": "100",
+        "name": "60 - Al-Momtahina"
+      },
+      {
+        "id": "88",
+        "name": "61 - As Saff"
+      },
+      {
+        "id": "87",
+        "name": "62 - Al Jumuah"
+      },
+      {
+        "id": "86",
+        "name": "63 - Al Monafiqon"
+      },
+      {
+        "id": "74",
+        "name": "64 - At-Taghabon"
+      },
+      {
+        "id": "73",
+        "name": "65 - At-Talaq"
+      },
+      {
+        "id": "72",
+        "name": "66 - At-Tahrim"
+      },
+      {
+        "id": "71",
+        "name": "67 - Al-Mulk"
+      },
+      {
+        "id": "70",
+        "name": "68 - Al-Qalam"
+      },
+      {
+        "id": "69",
+        "name": "69 - Al-Haqqah"
+      },
+      {
+        "id": "68",
+        "name": "70 - Al-Ma'aridj"
+      },
+      {
+        "id": "67",
+        "name": "71 - Nuh"
+      },
+      {
+        "id": "49",
+        "name": "72 - Al-Djinn"
+      },
+      {
+        "id": "48",
+        "name": "73 - Al Muzzammil"
+      },
+      {
+        "id": "47",
+        "name": "74 - Al Muddaththir"
+      },
+      {
+        "id": "58",
+        "name": "75 - Al Qiyama"
+      },
+      {
+        "id": "59",
+        "name": "76 - Al Insan"
+      },
+      {
+        "id": "60",
+        "name": "77 - Al Mursalat"
+      },
+      {
+        "id": "61",
+        "name": "78 - An Naba"
+      },
+      {
+        "id": "62",
+        "name": "79 - An Naziat"
+      },
+      {
+        "id": "63",
+        "name": "80 - Abasa"
+      },
+      {
+        "id": "64",
+        "name": "81 - Al Takwir"
+      },
+      {
+        "id": "65",
+        "name": "82 - Al Infitar"
+      },
+      {
+        "id": "66",
+        "name": "83 - Al Mutaffifin"
+      },
+      {
+        "id": "45",
+        "name": "84 - Al Inshiqaq"
+      },
+      {
+        "id": "44",
+        "name": "85 - Al Burooj"
+      },
+      {
+        "id": "43",
+        "name": "86 - At Tariq"
+      },
+      {
+        "id": "42",
+        "name": "87 - Al Ala"
+      },
+      {
+        "id": "41",
+        "name": "88 - Al Ghashiya"
+      },
+      {
+        "id": "40",
+        "name": "89 - Al Fajr"
+      },
+      {
+        "id": "39",
+        "name": "90 - Al Balad"
+      },
+      {
+        "id": "38",
+        "name": "91 - Ash Shams"
+      },
+      {
+        "id": "37",
+        "name": "92 - Al Lail"
+      },
+      {
+        "id": "36",
+        "name": "93 - Ad Dhuha"
+      },
+      {
+        "id": "35",
+        "name": "94 - Ash Sharh"
+      },
+      {
+        "id": "34",
+        "name": "95 - At Tin"
+      },
+      {
+        "id": "33",
+        "name": "96 - Al Alaq"
+      },
+      {
+        "id": "32",
+        "name": "97 - Al Qadr"
+      },
+      {
+        "id": "31",
+        "name": "98 - Al Bayyina"
+      },
+      {
+        "id": "30",
+        "name": "99 - Al Zalzala"
+      },
+      {
+        "id": "29",
+        "name": "100 - Al Adiyat"
+      },
+      {
+        "id": "28",
+        "name": "101 - Al Qaria"
+      },
+      {
+        "id": "27",
+        "name": "102 - Al Takathur"
+      },
+      {
+        "id": "26",
+        "name": "103 - Al Asr"
+      },
+      {
+        "id": "8",
+        "name": "104 - Al Mumaza"
+      },
+      {
+        "id": "9",
+        "name": "105 - Al-Fil"
+      },
+      {
+        "id": "25",
+        "name": "106 - Quraish"
+      },
+      {
+        "id": "24",
+        "name": "107 - Al Maun"
+      },
+      {
+        "id": "23",
+        "name": "108 - Al Kauther"
+      },
+      {
+        "id": "7",
+        "name": "109 - Al-Kafiroon"
+      },
+      {
+        "id": "6",
+        "name": "110 - An Nasr"
+      },
+      {
+        "id": "22",
+        "name": "111 - Al Masadd"
+      },
+      {
+        "id": "21",
+        "name": "112 - Al Ikhlas"
+      },
+      {
+        "id": "5",
+        "name": "113 - Al-Falaq"
+      },
+      {
+        "id": "4",
+        "name": "114 - An-Nas"
+      }
+    ]
+  }
+}

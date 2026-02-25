@@ -1,0 +1,31 @@
+{
+  "maps": {},
+  "suraStart": false,
+  "suraNo": 63,
+  "ayatStart": 9,
+  "ayatEnd": 11,
+  "pageNo": 491,
+  "ayatList": [
+    {
+      "number": 9,
+      "text": "يٰۤاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا لَا تُلۡهِكُمۡ اَمۡوَالُكُمۡ وَلَاۤ اَوۡلَادُكُمۡ عَنۡ ذِكۡرِ اللّٰهِ\u0026zwnj;ۚ وَمَنۡ يَّفۡعَلۡ ذٰلِكَ فَاُولٰٓٮِٕكَ هُمُ الۡخٰسِرُوۡنَ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "084937063009.mp3"
+    },
+    {
+      "number": 10,
+      "text": "وَاَنۡفِقُوۡا مِنۡ مَّا رَزَقۡنٰكُمۡ مِّنۡ قَبۡلِ اَنۡ يَّاۡتِىَ اَحَدَكُمُ الۡمَوۡتُ فَيَقُوۡلَ رَبِّ لَوۡلَاۤ اَخَّرۡتَنِىۡۤ اِلٰٓى اَجَلٍ قَرِيۡبٍۙ فَاَصَّدَّقَ وَاَكُنۡ مِّنَ الصّٰلِحِيۡنَ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "085012063010.mp3"
+    },
+    {
+      "number": 11,
+      "text": "وَلَنۡ يُّؤَخِّرَ اللّٰهُ نَفۡسًا اِذَا جَآءَ اَجَلُهَا\u0026zwnj;ؕ وَاللّٰهُ خَبِيۡرٌۢ بِمَا تَعۡمَلُوۡنَ\u0026rlm;\u0026nbsp;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "085043063011.mp3"
+    }
+  ]
+}

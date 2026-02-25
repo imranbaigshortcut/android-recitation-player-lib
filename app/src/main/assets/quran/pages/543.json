@@ -1,0 +1,66 @@
+{
+  "maps": {},
+  "suraStart": true,
+  "suraNo": 99,
+  "ayatStart": 1,
+  "ayatEnd": 8,
+  "pageNo": 543,
+  "ayatList": [
+    {
+      "number": 1,
+      "text": "اِذَا زُلۡزِلَتِ الۡاَرۡضُ زِلۡزَالَهَا ۙ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164237099001.mp3"
+    },
+    {
+      "number": 2,
+      "text": "\u0026nbsp;وَاَخۡرَجَتِ الۡاَرۡضُ اَثۡقَالَهَا ۙ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164324099002.mp3"
+    },
+    {
+      "number": 3,
+      "text": "\u0026nbsp;وَقَالَ الۡاِنۡسَانُ مَا لَهَا\u0026zwnj; ۚ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164408099003.mp3"
+    },
+    {
+      "number": 4,
+      "text": "\u0026nbsp;يَوۡمَٮِٕذٍ تُحَدِّثُ اَخۡبَارَهَا ۙ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164454099004.mp3"
+    },
+    {
+      "number": 5,
+      "text": "بِاَنَّ رَبَّكَ اَوۡحٰى لَهَا ؕ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164534099005.mp3"
+    },
+    {
+      "number": 6,
+      "text": "يَوۡمَٮِٕذٍ يَّصۡدُرُ النَّاسُ اَشۡتَاتًا\u0026emsp; ۙ لِّيُرَوۡا اَعۡمَالَهُمۡؕ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164618099006.mp3"
+    },
+    {
+      "number": 7,
+      "text": "\u0026nbsp;فَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَّرَهٗ ؕ\u0026rlm;",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164703099007.mp3"
+    },
+    {
+      "number": 8,
+      "text": "وَمَنۡ يَّعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ\u0026rlm; ",
+      "translationNo": "Her kommer norsk oversettelse",
+      "commentary": "",
+      "audioTalawat": "164736099008.mp3"
+    }
+  ]
+}
